@@ -14,7 +14,7 @@ const store = useStore();
 			<Unit />
 			<button :class="m.add" @click="() => store.addNew()">New guitar</button>
 		</div>
-		<a :class="m.repo" href="https://github.com/rodrigocfd/string-tension-calc">
+		<a :class="m.repo" href="https://github.com/Spetafrents/string-tension-calc/">
 			<img src="/github.svg" />
 		</a>
 	</header>
