@@ -9,7 +9,7 @@ const store = useStore();
 
 <template>
 	<header :class="m.header">
-		<h1 :class="m.title">String Tension Calculator</h1>
+		<h1 :class="m.title">Calculador de Tensão de Cordas</h1>
 		<div :class="m.topButtons">
 			<Unit />
 			<button :class="m.add" @click="() => store.addNew()">New guitar</button>
