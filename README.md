@@ -14,9 +14,6 @@ https://rodrigocfd.github.io/string-tension-calc
 * Provides several pre-configured commercial string packs;
 * Allows customization of string packs;
 * Provides several pre-configured tunings;
-* Allows customization of tunings.
-
-Unit weights taken from [D'Addario catalog](https://www.daddario.com/globalassets/pdfs/accessories/tension_chart_13934.pdf).
 
 ## License
 
