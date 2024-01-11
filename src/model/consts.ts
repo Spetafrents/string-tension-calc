@@ -180,7 +180,7 @@ export const STRING_NAMES = [
 ];
 
 export const TUNINGS = [
-    {name: 'F standard',  notes: ['F4', 'C4', 'G#3','D#3','A#2','F2', 'C2', 'G1' ]},
+        {name: 'F standard',  notes: ['F4', 'C4', 'G#3','D#3','A#2','F2', 'C2', 'G1' ]},
 	{name: 'E standard',  notes: ['E4', 'B3', 'G3', 'D3', 'A2', 'E2', 'B1', 'F#1']},
 	{name: 'Eb standard', notes: ['D#4','A#3','F#3','C#3','G#2','D#2','A#1','F1' ]},
 	{name: 'D standard',  notes: ['D4', 'A3', 'F3', 'C3', 'G2', 'D2', 'A1', 'E1' ]},
@@ -196,6 +196,7 @@ export const TUNINGS = [
 	{name: 'DADGAD',  notes: ['D4', 'A3', 'G3', 'D3', 'A2', 'D2', 'A1', 'E1' ]},
 	{name: 'Drop C#', notes: ['D#4','A#3','F#3','C#3','G#2','C#2','G#1','D#1']},
 	{name: 'Drop C',  notes: ['D4', 'A3', 'F3', 'C3', 'G2', 'C2', 'G1', 'D1' ]},
+	{name: 'Drop A',  notes: ['B3', 'F#3','D3', 'A2', 'E2', 'A1', 'F#1','C#1']},
 	{name: 'Drop B',  notes: ['C#4','G#3','E3', 'B2', 'F#2','B1', 'F#1','C#1']},
 ] as const;
 
