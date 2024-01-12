@@ -17,6 +17,8 @@ var du=Object.defineProperty;var gu=(e,t,n)=>t in e?du(e,t,{enumerable:!0,config
 	{gauges: ['.011 P', '.014 P', '.018 P', '.028 W', '.038 W', '.050 W'], name: '.11-50 Dunlop Heavy Core Heavier'},
 	{gauges: ['.012 P', '.016 P', '.020 W', '.034 W', '.046 W', '.060 W'], name: ".12-60 D'Addario EXL148"},
 	{gauges: ['.012 P', '.016 P', '.024 P', '.032 W', '.044 W', '.056 W'], name: '.12-56 Ernie Ball Not Even Slinky'},
+	{gauges: ['.012 P', '.016 P', '.024 W', '.032 W', '.042 W', '.052 W'], name: '.12-52 SG'},
+	{gauges: ['.012 P', '.016 P', '.020 P', '.032 W', '.042 W', '.054 W'], name: '.12-54 D'Addario EXL145'},
 	{gauges: ['.012 P', '.016 P', '.022 W', '.032 W', '.044 W', '.056 W'], name: '.12-56 Magnum Slinky'},
 	{gauges: ['.012 P', '.016 P', '.024 W', '.034 W', '.048 W', '.062 W'], name: '.12-62 Mammoth Slinky'},
 	{gauges: ['.013 P', '.017 P', '.026 W', '.036 W', '.046 W', '.062 W'], name: ".13-62 D'Addario EXL158"},
