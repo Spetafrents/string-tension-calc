@@ -1,8 +1,4 @@
-# Guitar String Tension Calculator
-
-Available for online use here:
-
-https://rodrigocfd.github.io/string-tension-calc
+# Calculador de tensão de cordas de guitarra
 
 ## Features
 
