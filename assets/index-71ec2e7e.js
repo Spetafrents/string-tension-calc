@@ -22,6 +22,8 @@ var du=Object.defineProperty;var gu=(e,t,n)=>t in e?du(e,t,{enumerable:!0,config
 	{gauges: ['.013 P', '.017 P', '.026 W', '.036 W', '.046 W', '.062 W'], name: ".13-62 D'Addario EXL158"},
 	{gauges: ['.013 P', '.017 P', '.026 W', '.036 W', '.046 W', '.056 W'], name: ".13-56 D'Addario EJ22"},
 	{gauges: ['.013 P', '.018 P', '.030 W', '.044 W', '.056 W', '.072 W'], name: '.13-72 Ernie Ball Baritone Slinky'},
+	{gauges: ['.013 P', '.017 P', '.022 P', '.042 W', '.056 W', '.070 W'], name: '.13-70 Cleartone Drop70'},
+	{gauges: ['.013 P', '.017 P', '.022 W', '.036 W', '.048 W', '.068 W'], name: '.13-68 Stringjoy'},
 	{gauges: ['.014 P', '.018 P', '.026 W', '.044 W', '.056 W', '.068 W'], name: ".14-68 D'Addario EXL157"},
 	{gauges: ['.009 P', '.011 P', '.016 P', '.024 W', '.032 W', '.042 W', '.054 W'], name: ".009 D'Addario EXL120-7"},
 	{gauges: ['.009 P', '.011 P', '.016 P', '.024 W', '.032 W', '.042 W', '.052 W'], name: '.009 Ernie Ball Super Slinky 7'},
