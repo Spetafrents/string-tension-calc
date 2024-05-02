@@ -7,6 +7,7 @@ var du=Object.defineProperty;var gu=(e,t,n)=>t in e?du(e,t,{enumerable:!0,config
 	{gauges: ['.010 P', '.013 P', '.017 P', '.026 W', '.036 W', '.046 W'], name: ".10-46 D'Addario / Ernie Ball", defaultSel: true},
 	{gauges: ['.010 P', '.013 P', '.017 P', '.030 W', '.042 W', '.052 W'], name: ".10-52 Skinny Top Heavy Bottom"},
 	{gauges: ['.010 P', '.013 P', '.017 P', '.028 W', '.038 W', '.048 W'], name: '.10-48 Ultra Slinky'},
+	{gauges: ['.010 P', '.013 P', '.017 P', '.028 W', '.038 W', '.049 W'], name: '.10-49 SG Hybrid'},
 	{gauges: ['.0105 P', '.0135 P', '.018 P', '.028 W', '.038 W', '.048 W'], name: '.10.5-48 EXL110+'},
 	{gauges: ['.010 P', '.013 P', '.017 P', '.032 W', '.044 W', '.054 W'], name: ".10-54 Skinny Top Beefy Bottom"},
 	{gauges: ['.011 P', '.015 P', '.022 P', '.030 W', '.044 W', '.054 W'], name: ".11-54 Beefy Slinky"},
