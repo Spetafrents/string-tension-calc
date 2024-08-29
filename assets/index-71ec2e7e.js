@@ -13,6 +13,7 @@ var du=Object.defineProperty;var gu=(e,t,n)=>t in e?du(e,t,{enumerable:!0,config
 	{gauges: ['.011 P', '.015 P', '.022 P', '.030 W', '.044 W', '.054 W'], name: ".11-54 Beefy Slinky"},
 	{gauges: ['.011 P', '.014 P', '.018 P', '.030 W', '.042 W', '.052 W'], name: ".11-52 Burly Slinky"},
 	{gauges: ['.011 P', '.014 P', '.019 P', '.032 W', '.044 W', '.056 W'], name: ".11-56 D'Addario EXL117"},
+	{gauges: ['.011 P', '.014 P', '.018 P', '.032 W', '.044 W', '.058 W'], name: ".11-58 Stringjoy DT"},
 	{gauges: ['.011 P', '.014 P', '.018 P', '.028 W', '.038 W', '.049 W'], name: ".11-49 D'Addario EXL115"},
 	{gauges: ['.011 P', '.014 P', '.018 P', '.038 W', '.049 W', '.064 W'], name: ".11-64 D'Addario NYXL1164"},
 	{gauges: ['.011 P', '.015 P', '.019 P', '.028 W', '.037 W', '.050 W'], name: ".11-50 D'Addario EXL115BT balanced"},
